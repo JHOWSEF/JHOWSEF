@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou José Filipe Marques 👋</h1>
 
 <h3 align="center">
-Desenvolvedor de Software • Backend • Cloud • Inteligência Artificial
+Desenvolvedor de Software • Full-Stack • Cloud • Inteligência Artificial
 </h3>
 
 ---
@@ -20,9 +20,13 @@ Sempre gosto de aprender novas ferramentas, enfrentar desafios e trabalhar em eq
 
 ## 🎓 Formação
 
-**Instituto Federal do Rio Grande do Sul (IFRS)**
+**Instituto Federal do Rio Grande (IFRS)**
 
 Técnico em Informática para Internet
+
+**Universidade Federal do Rio Grande**
+
+Graduação em Sistemas De Informação
 
 ---
 
@@ -68,50 +72,6 @@ Docker
 
 Figma
 
----
-
-# 📚 Atualmente estudando
-
-- ☁ AWS Cloud
-- 🤖 Deep Learning
-- 👁 Computer Vision
-- ⚙ Arquitetura de Microsserviços
-- 🐳 Docker
-- ☸ Kubernetes
-
----
-
-# ⭐ Projetos em destaque
-
-### Sistema Web Corporativo
-
-Aplicação desenvolvida em equipe para atender uma empresa local.
-
-Tecnologias:
-
-- Java
-- Spring Boot
-- MySQL
-- JWT
-- REST API
-
----
-
-### OCR e Inteligência Artificial
-
-Projetos utilizando Python para reconhecimento de documentos, processamento de imagens e treinamento de modelos utilizando Deep Learning.
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact"/>
-
-</div>
 
 ---
 
@@ -121,4 +81,3 @@ LinkedIn
 
 Email
 
-Instagram
