@@ -52,11 +52,43 @@ Graduação em Sistemas De Informação
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,bash" />
 </p>
 
-### 🤖 Inteligência Artificial
+### 🤖 IA & Machine Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
+**Conhecimentos**
+- Deep Learning
+- Machine Learning
+- Computer Vision
+- OCR
+- NLP
+- LLMs
+- RAG
+- Fine-tuning de modelos
+
+### 🧠 AI Developer Tools
+<p align="left">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+</p>
 ---
 
 ## 📫 Contato
