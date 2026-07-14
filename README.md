@@ -30,54 +30,38 @@ Graduação em Sistemas De Informação
 
 ---
 
-# 🚀 Tecnologias
+# 💻 Tech Stack
 
-### Backend
+### 🚀 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,codeigniter,nodejs,express,python,django" />
+</p>
 
-Java • Spring Boot • PHP • Laravel • CodeIgniter • Node.js • Express • Python • Django
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" />
+</p>
 
-### Frontend
+### 🗄️ Banco de Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
-HTML • CSS • JavaScript • Bootstrap • Handlebars
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,bash" />
+</p>
 
-### Banco de Dados
-
-MySQL
-
-### Cloud
-
-AWS (EC2, S3, IAM, VPC, fundamentos de Cloud)
-
-### Inteligência Artificial
-
-Python
-
-Deep Learning
-
-OCR
-
-Computer Vision
-
-Machine Learning
-
-### Ferramentas
-
-Git
-
-GitHub
-
-VS Code
-
-Docker
-
-Figma
-
+### 🤖 Inteligência Artificial
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
 
 ---
 
 ## 📫 Contato
 
-LinkedIn
+LinkedIn - www.linkedin.com/in/josé-filipe-marques
 
-Email
+Email - josefilipemgomes@gmail.com
 
