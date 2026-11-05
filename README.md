@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou José Filipe Marques 👋</h1>
 
 <h3 align="center">
-Desenvolvedor de Software • Full-Stack • Cloud • Inteligência Artificial
+Desenvolvedor de Software • Back-End • Cloud • Inteligência Artificial
 </h3>
 
 ---
